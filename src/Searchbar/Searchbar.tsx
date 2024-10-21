@@ -17,7 +17,7 @@ export function SearchBar() : JSX.Element {
         <div className="searchbar">
             <div>
                 <input 
-                    placeholder="Always stay clean!" 
+                    placeholder="sans is ness, fax, fr, fr, fanum tax"
                     className="input" 
                     type="input"
                     ref = {(ref) => inputRef = ref} 
