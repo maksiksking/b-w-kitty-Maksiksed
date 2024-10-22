@@ -1,18 +1,17 @@
 .searchbar {
-    position: relative;
+    position: absolute !important;
     height: 90px;
 }
 .searchbar > div {
     position: fixed;
-    left: 50px;
-    right: 50px;
-    bottom: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    width: 30vw;
+    left: 85%;
+    bottom: 50%;
+    transform: translate(-50%, -50%);
+
 }
 .searchbar > div > input {
-    width: 30%;
+    width: 80%;
     background-color: rgba(0,0,0,0);
     color: var(--default-color);
     font-size: 14pt;
@@ -36,6 +35,6 @@
 
 @media only screen and (max-height: 700px) {
 	.searchbar{
-        /*display: none;*/
+        display: none;
     }
 }

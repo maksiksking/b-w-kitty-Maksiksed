@@ -5,6 +5,14 @@ export type weblink = {
 
 export const weblinks:weblink[] = [
 	{
+		url: "https://keep.google.com/u/0/",
+		icon: "faStickyNote",
+	},
+	{
+		url: "https://www.youtube.com/channel/UCtQqZ6EhvprvC0H2tLN2EcA",
+		icon: "faYoutube",
+	},
+	{
 		url: "https://github.com",
 		icon: "faGithubAlt",
 	},
@@ -13,21 +21,17 @@ export const weblinks:weblink[] = [
 		icon: "faRedditAlien",
 	},
 	{
-		url: "https://gitlab.com",
-		icon: "faGitlab",
+		url: "https://thekanjimap.com/%E6%97%A5",
+		icon: "faSnowflake",
 	},
 	{
-		url: "https://www.wallpaperflare.com/park-junkyu-women-cyborg-futuristic-cyberpunk-black-hair-wallpaper-wekdq",
-		icon: "faImage",
+		url: "https://translate.google.com/",
+		icon: "faLanguage",
 	},
 	{
-		url: "https://www.youtube.com/channel/UCtQqZ6EhvprvC0H2tLN2EcA",
-		icon: "faYoutube",
-	},
-	{
-		url: "",
-		icon: "faGitkraken",
-	},
+		url: "https://docs.google.com/document/u/0/",
+		icon: "faFileWord",
+	}
 ]
 export const welcome:string = "お帰りなさい"
 
