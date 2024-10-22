@@ -9,7 +9,7 @@ export const weblinks:weblink[] = [
 		icon: "faStickyNote",
 	},
 	{
-		url: "https://www.youtube.com/channel/UCtQqZ6EhvprvC0H2tLN2EcA",
+		url: "https://www.youtube.com/",
 		icon: "faYoutube",
 	},
 	{
