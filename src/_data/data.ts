@@ -5,6 +5,10 @@ export type weblink = {
 
 export const weblinks:weblink[] = [
 	{
+		url: "https://mail.google.com/mail/",
+		icon: "faEnvelope",
+	},
+	{
 		url: "https://keep.google.com/u/0/",
 		icon: "faStickyNote",
 	},
@@ -13,17 +17,21 @@ export const weblinks:weblink[] = [
 		icon: "faYoutube",
 	},
 	{
+		url: "https://docs.google.com/document/u/0/",
+		icon: "faTelegram",
+	},
+	{
 		url: "https://github.com",
 		icon: "faGithubAlt",
 	},
-	{
-		url: "https://reddit.com",
-		icon: "faRedditAlien",
-	},
-	{
-		url: "https://thekanjimap.com/%E6%97%A5",
-		icon: "faSnowflake",
-	},
+	// {
+	// 	url: "https://reddit.com",
+	// 	icon: "faRedditAlien",
+	// },
+	// {
+	// 	url: "https://thekanjimap.com/%E6%97%A5",
+	// 	icon: "faSnowflake",
+	// },
 	{
 		url: "https://translate.google.com/",
 		icon: "faLanguage",
@@ -31,7 +39,7 @@ export const weblinks:weblink[] = [
 	{
 		url: "https://docs.google.com/document/u/0/",
 		icon: "faFileWord",
-	}
+	},
 ]
 export const welcome:string = "お帰りなさい"
 
