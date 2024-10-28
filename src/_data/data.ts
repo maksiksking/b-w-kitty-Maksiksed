@@ -17,10 +17,6 @@ export const weblinks:weblink[] = [
 		icon: "faYoutube",
 	},
 	{
-		url: "https://classroom.google.com/u/3/",
-		icon: "faChalkboard",
-	},
-	{
 		url: "https://web.telegram.org/a/",
 		icon: "faTelegram",
 	},
@@ -39,6 +35,10 @@ export const weblinks:weblink[] = [
 	{
 		url: "https://translate.google.com/",
 		icon: "faLanguage",
+	},
+	{
+		url: "https://classroom.google.com/u/3/",
+		icon: "faChalkboard",
 	},
 	{
 		url: "https://docs.google.com/document/u/0/",
