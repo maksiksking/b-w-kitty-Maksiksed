@@ -1,1 +1,1 @@
-yes I stole this, remade this and fixed the searchbar and then removed the searchabar because it looked bad, I take no credit for this one whatsoever, just wanted a better starter page and I done it, but this is how I learnt React
+yes I stole this, remade this and fixed the searchbar and then removed the searchbar because it looked bad, I take no credit for this one whatsoever, just wanted a better starter page and I done it, but this is how I learnt React
